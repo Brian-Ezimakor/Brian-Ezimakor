@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Brian-Ezimakor
+- 👀 I’m interested in front-end development( HTML,CSS,JAVA-SCRIPT).
+- 🌱 I’m currently learning JAVA-SCRIPT and then PHP.
+- 💞️ I’m looking to collaborate on web designing.
+- 📫 How to reach me: To reach me call +234-805-591-8524 or send me a mail @ iheayichukwuezimako@gmail.com.
+-    I am very friendly and nice!
